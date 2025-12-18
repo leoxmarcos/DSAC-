@@ -2,9 +2,10 @@
 <!-- 🌌 ANIMATED HERO BANNER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=38&pause=1200&color=00FF9C&center=true&vCenter=true&width=1100&height=95&lines=DSA+in+C%2B%2B;Crack+DSA+with+Logic;From+Foundations+to+Advanced;Consistency+%7C+Discipline+%7C+Growth"
+    src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=38&pause=1200&color=00FFFF&center=true&vCenter=true&width=1100&height=95&lines=DSA+in+C%2B%2B;Crack+DSA+with+Logic;From+Foundations+to+Advanced;Consistency+%7C+Discipline+%7C+Growth"
   />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
