@@ -10,32 +10,28 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
-
 ---
 
 ## 🚀 DSAC- | Data Structures & Algorithms in C++
 
 > A **power-packed C++ DSA repository** built for **strong fundamentals**, **sharp logic**, and **interview dominance**.
 
-This repository is designed to help you:
+This repository helps you:
 - 💡 Think algorithmically  
-- ⚙️ Code efficiently in **C++**  
-- 🎯 Prepare for **placements & competitive programming**  
+- ⚙️ Write efficient **C++ code**  
+- 🎯 Prepare for **placements & competitive programming**
 
-> *“DSA is not about solving problems fast — it’s about thinking right.”*
+> *“DSA is not about speed — it’s about clarity of thought.”*
 
 ---
 
 ## 🧠 What This Repo Covers
 
 ✨ Modern **C++ implementations**  
-✨ Clean & optimized logic  
-✨ Step-by-step learning flow  
-✨ Interview-oriented problems  
+✨ Clean & optimized solutions  
+✨ Topic-wise structured learning  
 ✨ Beginner → Advanced progression  
+✨ Interview-focused problem solving  
 
 ---
 
