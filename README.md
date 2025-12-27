@@ -15,32 +15,89 @@
 <h1 align="center" style="color:#1E3A8A;">🚀 DSA in C++</h1>
 
 <p align="center">
-  <b>A power-packed Data Structures & Algorithms repository built to master logic, optimize thinking, and crack interviews.</b>
+  <b>Enhancing Data Structures & Algorithms using modern C++ with a strong focus on logic, optimization, and interview preparation.</b>
 </p>
 
 <p align="center">
-  <i>“DSA is not about speed — it’s about clarity of thought.”</i>
+  <i>“DSA is not about memorizing solutions — it’s about training your brain to think.”</i>
 </p>
 
 ---
 
-<h2 style="color:#0EA5E9;">🧠 Why This Repository?</h2>
+<h2 style="color:#0EA5E9;">📘 About This Repository</h2>
 
-✔ Strengthen core DSA fundamentals  
-✔ Write clean & efficient C++ code  
-✔ Build strong problem-solving skills  
-✔ Prepare for placements & interviews  
-✔ Beginner → Advanced friendly  
+This repository is a **structured learning journey for mastering DSA using C++**.  
+It is designed to:
+- Build **strong problem-solving fundamentals**
+- Improve **algorithmic thinking**
+- Write **optimized and clean C++ code**
+- Progress from **basic concepts to advanced topics**
+- Prepare effectively for **coding interviews & competitive programming**
+
+Each topic is organized **folder-wise** with well-commented code and increasing difficulty.
 
 ---
 
-<h2 style="color:#6366F1;">✨ What You’ll Find Here</h2>
+<h2 style="color:#6366F1;">🧠 Topics I Will Cover (DSA in C++)</h2>
 
-🌟 Modern C++ implementations  
-🌟 Optimized & readable solutions  
-🌟 Topic-wise structured learning  
-🌟 Interview & CP focused problems  
-🌟 Progressive difficulty levels  
+### 🔹 Basics & Foundations
+- Time & Space Complexity  
+- Input / Output optimization  
+- C++ STL (Vectors, Maps, Sets, Queues, Stacks)  
+
+### 🔹 Arrays & Strings
+- Array manipulation techniques  
+- Sliding window  
+- Two pointer approach  
+- String parsing & pattern problems  
+
+### 🔹 Searching & Sorting
+- Linear & Binary Search  
+- Merge Sort, Quick Sort, Heap Sort  
+- Searching in rotated arrays  
+- Custom comparator techniques  
+
+### 🔹 Recursion & Backtracking
+- Recursive thinking patterns  
+- Backtracking problems  
+- Subsets, permutations, combinations  
+- Divide & conquer strategies  
+
+### 🔹 Linked List
+- Singly & Doubly Linked Lists  
+- Fast & slow pointer techniques  
+- Cycle detection  
+- Reversal & merging problems  
+
+### 🔹 Stack & Queue
+- Stack implementation & applications  
+- Monotonic stack  
+- Queue & Deque problems  
+- Expression evaluation  
+
+### 🔹 Trees
+- Binary Trees & Binary Search Trees  
+- Tree traversals (DFS, BFS)  
+- Lowest Common Ancestor  
+- Tree diameter & height problems  
+
+### 🔹 Graphs
+- Graph representation  
+- BFS & DFS  
+- Shortest path algorithms  
+- Cycle detection  
+- Topological sorting  
+
+### 🔹 Dynamic Programming
+- Memoization & Tabulation  
+- 1D & 2D DP  
+- Knapsack patterns  
+- DP on strings & trees  
+
+### 🔹 Practice & Interview Problems
+- Topic-wise practice problems  
+- Mixed DSA questions  
+- Company-style interview problems  
 
 ---
 
