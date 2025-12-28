@@ -1,5 +1,7 @@
 <!-- ============================== -->
 <!-- 🌌 ANIMATED HERO BANNER -->
+
+<h1 align="center" style="color:#1E3A8A;">🚀 DSA in C++</h1>
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=38&pause=1200&color=00E5FF&center=true&vCenter=true&width=1100&height=95&lines=DSA+in+C%2B%2B;Crack+DSA+with+Logic;From+Foundations+to+Advanced;Consistency+%7C+Discipline+%7C+Growth"
@@ -12,7 +14,6 @@
 
 ---
 
-<h1 align="center" style="color:#1E3A8A;">🚀 DSA in C++</h1>
 
 <p align="center">
   <b>Enhancing Data Structures & Algorithms using modern C++ with a strong focus on logic, optimization, and interview preparation.</b>
